@@ -1,0 +1,6 @@
+menu "test1 driver here"
+config TEST1
+	bool "leon test1 driver"
+	help
+		This is test1
+endmenu
